@@ -1,0 +1,117 @@
+/* Header */
+.navbar{
+    border-bottom: 1px solid #000;
+}
+.navbar-brand {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+
+    color: #000000;
+}
+.navbar-brand:hover{
+    color: #000;
+}
+/* Tutup Header */
+
+/* success */
+.sukses{
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sukses h1{
+    margin-top: 60px;
+    font-family: "Poppins";
+    font-size: 36px;
+    font-weight: 500;
+    color: #152C5B;
+}
+.sukses p{
+    margin-top: 30px;
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 400;
+    color: #B0B0B0;
+    text-align: center;
+}
+.btn-home{
+    margin-top: 30px;
+    height: 50px;
+    width: 385px;
+    background-color: #FCBB3A;
+    text-align: center;
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    transition: all 0.2s ease-in-out;
+}
+.btn-home:hover{
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
+}
+/* tutup success */
+
+/* footer */
+.footer {
+    background-color: #f1f1f1;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.footer h2 {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 36px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+
+.footer h5 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+
+    color: #000000;
+
+}
+
+.footer p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #9F9C9C;
+}
+
+.footer-small {
+    background-color: #171938;
+    text-align: center;
+}
+
+.footer-small p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+
+    margin-top: 20px;
+
+    color: #ffffff;
+}
+
+.footer-small a {
+    font-weight: 500;
+    font-size: 16px;
+
+    text-decoration: none;
+
+    color: #FCBB3A;;
+}
+/* Tutup footer */
